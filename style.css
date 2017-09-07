@@ -1,0 +1,52 @@
+html{
+    padding:0px;
+}
+
+body{
+    padding:0px;
+}
+
+.header{
+    height:60px;
+    line-height:60px;
+    padding:20px;
+    background-color:#228b22;
+}
+
+.header h1{
+    float:left;
+    margin:0px;
+    color:white;
+}
+
+.header li{
+    float:right;
+    margin:0px;
+    padding:0px;
+    list-style:none;
+    margin-left:20px;
+}
+
+.header ul a{
+    text-decoration:none;
+    color:white;
+}
+
+.content{
+    width:70%;
+    background-color:lightgrey;
+    float:left;
+    min-height:500px;
+}
+
+.sidebar{
+    width:30%;
+    float: left;
+    background-color:darkslategray;
+    color:white;
+    min-height:500px;
+}
+
+p{
+    margin:20px;
+}
